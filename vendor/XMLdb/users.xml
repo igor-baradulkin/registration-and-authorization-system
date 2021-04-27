@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<users>
+<user>
+<login>Zhelko123</login>
+<name>zhel123</name>
+<email>darcode@mail.ru</email>
+<salt>3h90qlrbsopx</salt>
+<hashedpassword>aaaeb15604e272aa14d07f795a8dd294</hashedpassword>
+<cookiekey/>
+<sessionkey/>
+</user>
+</users>
